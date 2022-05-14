@@ -6,7 +6,7 @@ Sobre os funcionarios se pretende guardar os seguintes dados: número de funcion
 O programa encontra-se dividido em três seções diferentes:
 1-Inserir novos funcionarios;
 2-Contagem do número de funcionários já inseridos;
-3-Ordenaar os funcionários de forma decrescente de acordo com o sálario dos mesmo.
+3-Ordenaar os funcionários de forma decrescente de acordo com o sálario dos mesmos.
 
 Todos os dados referentes aos funcionário serão armazenados num ficheiro binario cujo nome é dados.dat.
 
